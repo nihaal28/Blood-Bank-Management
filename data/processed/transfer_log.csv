@@ -1,0 +1,5 @@
+timestamp,date,donor,recipient,blood_group,qty,priority_score,decision,rejection_reason,manager_id
+2026-04-04T14:25:27.555579,2021-01-03,Hospital_C,Hospital_A,O_negative,14,21.32,APPROVED,,manager_01
+2026-04-04T14:25:27.561945,2021-01-04,Hospital_C,Hospital_A,O_negative,13,17.31,REJECTED,Logistical issue,manager_01
+2026-04-04T14:27:51.099236,2021-01-05,Hospital_C,Hospital_A,O_negative,14,9.69,APPROVED,,test_manager
+2026-04-04T14:27:51.099242,2021-01-06,Hospital_C,Hospital_A,O_negative,15,1.01,REJECTED,Clinical concern,test_manager

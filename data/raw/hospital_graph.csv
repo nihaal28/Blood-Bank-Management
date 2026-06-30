@@ -1,0 +1,4 @@
+from_hospital,to_hospital,distance_km,transit_hr
+Hospital_A,Hospital_B,18,0.5
+Hospital_A,Hospital_C,44,1.2
+Hospital_B,Hospital_C,31,0.9
