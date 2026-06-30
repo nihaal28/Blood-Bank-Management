@@ -1,0 +1,7 @@
+hospital,blood_group,total_demand,total_collected,total_used,total_expired,discard_rate_pct,total_shortages,mean_daily_demand
+Hospital_A,O_negative,19012,21042,19012,1586,7.54,0,17.36
+Hospital_A,O_positive,49564,54647,49564,4263,7.8,0,45.26
+Hospital_B,O_negative,12207,13347,12207,839,6.29,0,11.15
+Hospital_B,O_positive,32374,35578,32374,2788,7.84,0,29.57
+Hospital_C,O_negative,6975,7775,6975,667,8.58,0,6.37
+Hospital_C,O_positive,18075,19653,18075,1354,6.89,0,16.51

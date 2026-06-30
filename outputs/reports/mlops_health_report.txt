@@ -1,0 +1,29 @@
+============================================================
+  MLOps Health Report
+  Generated: 2026-04-05 10:08:20
+============================================================
+
+OVERALL MODEL HEALTH: CRITICAL  (3/6 combos drifted)
+
+PER-COMBO MAPE TRACKING
+-------------------------------------------------------
+  Combo                         Baseline   Rolling   Drift?
+  ----------------------------------------------------
+  Hospital_A O_positive           13.65%    14.52%        no
+  Hospital_A O_negative           16.76%    27.35%  YES  <--
+  Hospital_B O_positive           16.07%    19.69%        no
+  Hospital_B O_negative           48.70%    66.20%  YES  <--
+  Hospital_C O_positive           21.91%    26.88%        no
+  Hospital_C O_negative           29.16%    80.43%  YES  <--
+
+AUTO-RETRAINED COMBOS
+------------------------------
+  Hospital_A O_negative
+  Hospital_B O_negative
+  Hospital_C O_negative
+
+HITL ROUTE WEIGHT ADJUSTMENTS (W2)
+----------------------------------------
+  Hospital_C->Hospital_A               W2 = 0.9500
+
+============================================================

@@ -1,0 +1,7 @@
+hospital,blood_group,MAE,RMSE,MAPE
+Hospital_A,O_positive,6.984,9.155,16.288
+Hospital_A,O_negative,3.722,4.37,25.025
+Hospital_B,O_positive,4.426,5.577,20.824
+Hospital_B,O_negative,6.494,7.37,71.08
+Hospital_C,O_positive,3.44,4.597,28.442
+Hospital_C,O_negative,3.211,3.631,69.613

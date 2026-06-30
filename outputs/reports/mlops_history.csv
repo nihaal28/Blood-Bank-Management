@@ -1,0 +1,7 @@
+timestamp,hospital,blood_group,baseline_mape,rolling_mape,drift_detected,retrained
+2026-04-05T10:08:19.188092,Hospital_A,O_positive,13.65,14.519,False,False
+2026-04-05T10:08:19.381200,Hospital_A,O_negative,16.764,27.349,True,False
+2026-04-05T10:08:19.586624,Hospital_B,O_positive,16.068,19.686,False,False
+2026-04-05T10:08:19.778933,Hospital_B,O_negative,48.699,66.205,True,False
+2026-04-05T10:08:19.982709,Hospital_C,O_positive,21.911,26.878,False,False
+2026-04-05T10:08:20.206120,Hospital_C,O_negative,29.164,80.428,True,False
